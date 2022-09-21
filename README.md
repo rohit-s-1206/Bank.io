@@ -14,4 +14,4 @@ Database contains two Tables- Users Table & Transaction Table
 Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
 
 Website link:-
-https://acronical-blood.000webhostapp.com/
+https://rohit-s-1206.github.io/Bank.io/
